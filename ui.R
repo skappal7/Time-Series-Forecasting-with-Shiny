@@ -106,7 +106,7 @@ shinyUI(
                    ),
                  tags$div(id="cite",
                           'Want to know more?', 
-                          a("visit my GitHub repository", href="https://github.com/rjshanahan/Time-Series-Forecasting-with-Shiny", target="_blank")
+                          a("visit my GitHub repository", href="https://github.com/skappal7/Time-Series-Forecasting-with-Shiny", target="_blank")
                           )
                  
                )
